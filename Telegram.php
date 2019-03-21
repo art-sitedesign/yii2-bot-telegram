@@ -1,6 +1,6 @@
 <?php
 
-namespace aki\telegram;
+namespace submodules\yii2BotTelegram;
 /**
  * @author Akbar Joudi <akbar.joody@gmail.com>
  */
